@@ -1,4 +1,6 @@
 streamlit
+pydantic==1.10.15
 crewai
+litellm
 groq
 python-dotenv
